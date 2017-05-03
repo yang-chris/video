@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+body,p,ul,ol,dl,dt,dd,h1,h2,h3,h4,h5,h6,form,input,select,button,textarea,table,th,td{margin:0;padding:0;list-style: none;font-family:arial,"微软雅黑";}
+em{font-style: normal;}
+body,input,select,button,textarea{font-size:12px;font-family:arial,"微软雅黑",sans-serif;color: #000;}
+input,textarea{outline:none;}
+a,a:focus{text-decoration: none;outline:none !important;}
+img,a img{border: 0;vertical-align: top;}
+.clearfix:after{display: block;clear: both;height: 0;visibility: hidden;font-size: 0;line-height: 0;content: "";}
+.clearfix{zoom:1;}
+a,button,input,textarea {-webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-appearance: none;border-radius: 0;}
+input[type=button]{cursor: pointer; -webkit-appearance: none; }
+body{background: #f5f5f5;}
